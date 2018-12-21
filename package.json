@@ -16,6 +16,7 @@
     "influx": "^5.0.7",
     "morgan": "~1.9.0",
     "node-binance-api": "^0.8.7",
-    "pug": "2.0.0-beta11"
+    "pug": "2.0.0-beta11",
+    "talib": "^1.0.6"
   }
 }
